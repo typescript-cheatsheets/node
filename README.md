@@ -1,7 +1,8 @@
 # node-typescript-cheatsheet
+
 Cheatsheets for experienced Node.js developers getting started with TypeScript
 
-`tsconfig.json`: 
+`tsconfig.json`:
 
 ```json
 {
@@ -12,6 +13,4 @@ Cheatsheets for experienced Node.js developers getting started with TypeScript
 }
 ```
 
-
 shipping typescript sourcemaps from a node server: http://npm.im/source-map-support
-
