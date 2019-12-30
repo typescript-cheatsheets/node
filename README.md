@@ -19,11 +19,9 @@ Cheatsheets for experienced Node.js developers getting started with TypeScript
 
 shipping typescript sourcemaps from a node server: http://npm.im/source-map-support
 
-
 ## Tip 3
 
-
-Instead of 
+Instead of
 
 ```bash
 nodemon --exec ts-node src/index.ts
