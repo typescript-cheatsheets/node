@@ -2,6 +2,10 @@
 
 Cheatsheets for experienced Node.js developers getting started with TypeScript
 
+## Helpful tools
+
+- https://ts-engine.dev/
+
 ## Tip 1
 
 `tsconfig.json`:
