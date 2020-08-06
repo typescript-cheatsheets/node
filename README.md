@@ -5,6 +5,8 @@ Cheatsheets for experienced Node.js developers getting started with TypeScript
 ## Helpful tools
 
 - https://ts-engine.dev/
+- https://github.com/gcanti/io-ts flowing runtime tests down and doing validation in runtime 
+  - podcast discussion https://fullstackradio.com/episodes/144
 
 ## Tip 1
 
