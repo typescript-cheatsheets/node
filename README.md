@@ -7,6 +7,8 @@ Cheatsheets for experienced Node.js developers getting started with TypeScript
 - https://ts-engine.dev/
 - https://github.com/gcanti/io-ts flowing runtime tests down and doing validation in runtime 
   - podcast discussion https://fullstackradio.com/episodes/144
+- attaching properties on to `req` in Express https://twitter.com/mjackson/status/1294384799231012864?s=20
+
 
 ## Tip 1
 
