@@ -2,6 +2,11 @@
 
 Cheatsheets for experienced Node.js developers getting started with TypeScript
 
+## TS config
+
+You can find more [recommended TS config here](https://github.com/tsconfig/bases). 
+
+
 ## Helpful tools
 
 - https://ts-engine.dev/
