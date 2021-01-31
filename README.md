@@ -9,6 +9,7 @@ You can find more [recommended TS config here](https://github.com/tsconfig/bases
 
 ## Helpful tools
 
+- Gary Bernhardt on [End to End TypeScript](https://www.youtube.com/watch?v=GrnBXhsr0ng&feature=youtu.be): Database, Backend, API, and Frontend
 - https://ts-engine.dev/
 - https://github.com/gcanti/io-ts flowing runtime tests down and doing validation in runtime 
   - podcast discussion https://fullstackradio.com/episodes/144
