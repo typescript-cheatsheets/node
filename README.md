@@ -24,7 +24,7 @@ You can find more [recommended TS config here](https://github.com/tsconfig/bases
 {
   "compilerOptions": {
     "target": "es2015",
-    "module: "commonjs"
+    "module": "commonjs"
   }
 }
 ```
